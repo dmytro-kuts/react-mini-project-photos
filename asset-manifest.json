@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mini-project-photos/static/css/main.76219016.css",
+    "main.js": "/react-mini-project-photos/static/js/main.486bba5d.js",
+    "index.html": "/react-mini-project-photos/index.html",
+    "main.76219016.css.map": "/react-mini-project-photos/static/css/main.76219016.css.map",
+    "main.486bba5d.js.map": "/react-mini-project-photos/static/js/main.486bba5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76219016.css",
+    "static/js/main.486bba5d.js"
+  ]
+}
